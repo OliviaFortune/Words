@@ -61,7 +61,7 @@ to form a word. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 </select>
 <p id="demo"> </p>
 <p id="demo1"> </p>
-<p id="demo2"> </p>
+ 
 
  
 
