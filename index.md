@@ -7,8 +7,7 @@ body {font-family: "Raleway", Arial, sans-serif}
 </style>
 <body>
 
-<!-- !PAGE CONTENT! -->
-<div class="w3-content" style="max-width:1500px">
+ 
 
   <p>Word in English can have a Prefix, Middle Part and Suffix, Use the dropdown
 to form a word. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
@@ -64,10 +63,7 @@ to form a word. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 <p id="demo1"> </p>
 <p id="demo2"> </p>
 
-<button type="button" onclick="myFunction3()">Checkme</button>
-
-
-<p contenteditable="true" spellcheck="true"></p>Type the word here: <input type="text" name="fname" spellcheck="true">
+ 
 
 
 
